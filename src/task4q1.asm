@@ -14,10 +14,20 @@ INCLUDELIB user32.lib
 
 .data
     
-   
+    x DWORD 25000        
+    y DWORD 15000        
+    result DWORD ?       
+
+	; data declarations go here
+
 .code
 main PROC
 	
+	    MOV EAX, x          ; EAX = x
+        ADD EAX, y          ; EAX = EAX + y
+
+     
+        MOV result, EAX     ; result = EAX
 
 	; code goes here
 
