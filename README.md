@@ -88,9 +88,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:hassanali93r@gmail.com)
+Your Name - [hassanali93r@gmail.com](mailto:hassanali93r@gmail.com)
 
-Project Link: [https://github.com/yourusername/coal-labs](https://github.com/Rival5555/coal-labs)
+Project Link: [https://github.com/Rival5555/coal](https://github.com/Rival5555/coal)
 
 ## Acknowledgments
 
